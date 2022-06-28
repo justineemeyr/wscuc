@@ -99,7 +99,7 @@ By the end of the course, you will be able to ...
 - **Day 3 Morning: August 4**: Block 6: Effectiveness Presentation   | Block 7: Conversation and Contextualization
 - **Day 3 Afternoon: August 4**: Block 8: Closing Thoughts
 
-**October 26-29,2002**
+**October 26-29,2022**
 
 **January 11-13, 2023**
 
