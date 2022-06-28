@@ -1,6 +1,6 @@
 # wscuc
 <p align="center">
-  <a href="https://www.wscuc.org">
+  <a href="https://www.wscuc.org/educational-programs/accreditation-leadership-academy/">
     <img width="1079" alt="Screen Shot 2022-06-16 at 3 40 03 PM" src="https://user-images.githubusercontent.com/108366364/176271404-3af2d922-0335-4398-83c7-d762bdd4ce82.png">
 
   </a>
@@ -89,6 +89,19 @@ By the end of the course, you will be able to ...
 [Lesson 19]: Lessons/Lesson14.md
 [Lesson 20]: Lessons/Lesson14.md
 
+
+## In Person Meetings
+**August 2-4, 2022**
+
+**Day 1 Arrival: August 2**:  Block 1: Welcome Presentation | 2pm-5pm
+**Day 2 Morning: August 3**: Block 2: Equity Presentation | Block 3: Conversation and Contextualization
+**Day 2 Afternoon: August 3**: Block 4: Evidence Presentation   | Block 5: Conversation and Contextualization
+**Day 3 Morning: August 4**: Block 6: Effectiveness Presentation   | Block 7: Conversation and Contextualization
+**Day 3 Afternoon: August 4**: Block 8: Closing Thoughts
+
+**October 26-29,2002**
+
+**January 11-13, 2023**
 
 
 ## Assignment Schedule 
