@@ -91,6 +91,7 @@ By the end of the course, you will be able to ...
 
 ## In Person Meetings
 **August 2-4, 2022**
+
 **Day 1 Arrival: August 2**:  Block 1: Welcome Presentation | 2pm-5pm
 **Day 2 Morning: August 3**: Block 2: Equity Presentation | Block 3: Conversation and Contextualization
 **Day 2 Afternoon: August 3**: Block 4: Evidence Presentation   | Block 5: Conversation and Contextualization
