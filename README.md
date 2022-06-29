@@ -46,7 +46,7 @@ By the end of the course, you will be able to ...
 |:-----:|:----------------------:|:---------------------------------------:|
 |  1 |  Tue, July 5         | [Introduction] |  
 |  2 |  Thu, July 8         | [Leadership Readings] |
-| 18 |  Tue, Aug 2       | In person Meeting |
+| 3 |  Tue, Aug 2       | In person Meeting |
 
 
 ---
