@@ -1,4 +1,3 @@
-# wscuc
 <p align="center">
   <a href="https://www.wscuc.org/educational-programs/accreditation-leadership-academy/">
     <img width="1079" alt="Screen Shot 2022-06-16 at 3 40 03 PM" src="https://user-images.githubusercontent.com/108366364/176271404-3af2d922-0335-4398-83c7-d762bdd4ce82.png">
