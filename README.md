@@ -44,23 +44,8 @@ By the end of the course, you will be able to ...
 
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
-|  1 |  Tue, July 1         | [Introduction] |  
-|  2 |  Thu, June 3         | [Lesson 2] |
-|  3 |  Tue, June 8         | [Lesson 3] |
-|  4 |  Thu, June 10        | [Lesson 4] |
-|  5 |  Tue, June 15        | [Lesson 5] |
-|  6 |  Thu, June 17        | [Lesson 6] |
-|  7 |  Tue, June 22        | [Lesson 7] |
-|  8 |  Thu, June 24        | [Lesson 8] |
-|  9 |  Tue, June 29        | [Lesson 9] |
-| 10 |  Thu, July 1         | [Lesson 10] |
-| 11 |  Tue, July 6         | [Lesson 11] |
-| 12 |  Thu, July 8         | [Lesson 12] |
-| 13 |  Tue, July 13        | [Lesson 13] |
-| 14 |  Thu, July 15        | [Lesson 14] |
-| 15 |  Tue, July 20        | [Lesson 15] |
-| 16 |  Thu, July 22        | [Lesson 16] |
-| 17 |  Tue, July 27        | [Lesson 17] |
+|  1 |  Tue, July 5         | [Introduction] |  
+|  2 |  Thu, July 8         | [Leadership Readings] |
 | 18 |  Tue, Aug 2       | In person Meeting |
 
 
@@ -69,7 +54,7 @@ By the end of the course, you will be able to ...
 
 
 [Introduction]: Lessons/Lesson1.md
-[Lesson 2]: Lessons/Lesson2.md
+[Leadership Readings]: Lessons/Lesson2.md
 [Lesson 3]: Lessons/Lesson3.md
 [Lesson 4]: Lessons/Lesson4.md
 [Lesson 5]: Lessons/Lesson5.md
@@ -109,7 +94,7 @@ By the end of the course, you will be able to ...
 
 |                        Assignment                         | Date Assigned |   Due Date   |            Submission Form           |
 |:---------------------------------------------------------:|:-------------:|:------------:|:------------------------------------:|
-| [Link to Assignment](makeschool.com)                      |  Tue, Oct 15  |  Tue, Oct 22 | [Submit Assignment](makeschool.com)  |
+| [Link to Assignment](makeschool.com)                      |  Tuesday, July 5  |  Tue, July 26 | [Submit Assignment](makeschool.com)  |
 | [Link to Assignment](makeschool.com)                      |  day, Date    |  day, Date   | [Submit Assignment](makeschool.com)  |
 | [Link to Assignment](makeschool.com)                      |  day, Date    |  day, Date   | [Submit Assignment](makeschool.com)  |
 | [Link to Assignment](makeschool.com)                      |  day, Date    |  day, Date   | [Submit Assignment](makeschool.com)  |
