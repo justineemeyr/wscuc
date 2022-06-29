@@ -78,11 +78,11 @@ By the end of the course, you will be able to ...
 ## In Person Meetings
 **August 2-4, 2022**
 
-- **Day 1 Arrival: August 2**:  Block 1: Welcome Presentation | 2pm-5pm
-- **Day 2 Morning: August 3**: Block 2: Equity Presentation | Block 3: Conversation and Contextualization
-- **Day 2 Afternoon: August 3**: Block 4: Evidence Presentation   | Block 5: Conversation and Contextualization
-- **Day 3 Morning: August 4**: Block 6: Effectiveness Presentation   | Block 7: Conversation and Contextualization
-- **Day 3 Afternoon: August 4**: Block 8: Closing Thoughts
+- **Day 1 Arrival: August 2**:  | Block 1: Welcome Presentation  2pm-5pm |
+- **Day 2 Morning: August 3**: | Block 2: Equity Presentation | Block 3: Conversation and Contextualization |
+- **Day 2 Afternoon: August 3**: | Block 4: Evidence Presentation   | Block 5: Conversation and Contextualization |
+- **Day 3 Morning: August 4**: | Block 6: Effectiveness Presentation   | Block 7: Conversation and Contextualization |
+- **Day 3 Afternoon: August 4**: | Block 8: Closing Thoughts |
 
 **October 26-29,2022**
 
@@ -94,10 +94,9 @@ By the end of the course, you will be able to ...
 
 |                        Assignment                         | Date Assigned |   Due Date   |            Submission Form           |
 |:---------------------------------------------------------:|:-------------:|:------------:|:------------------------------------:|
-| [Link to Assignment](makeschool.com)                      |  Tuesday, July 5  |  Tue, July 26 | [Submit Assignment](makeschool.com)  |
-| [Link to Assignment](makeschool.com)                      |  day, Date    |  day, Date   | [Submit Assignment](makeschool.com)  |
-| [Link to Assignment](makeschool.com)                      |  day, Date    |  day, Date   | [Submit Assignment](makeschool.com)  |
-| [Link to Assignment](makeschool.com)                      |  day, Date    |  day, Date   | [Submit Assignment](makeschool.com)  |
+| [Assignment 1](makeschool.com)                      |  Tuesday, August 2  |  Wed, October 26 | [Submit Assignment](makeschool.com)  |
+| [Assignment 2](makeschool.com)                      |  Thursday, October 27   |  Friday, January 13  | [Submit Assignment](makeschool.com)  |
+
 
 ## Class Assignments
 
