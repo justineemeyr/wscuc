@@ -55,8 +55,8 @@ By the end of the course, you will be able to ...
 
 
 [Introduction in Moodle]: Lessons/Lesson1.md
-[Leadership Readings]: Lessons/Lesson2.md
-[Leadership Moodel Discussion]: Lessons/Lesson3.md
+[Leadership Readings in Moodle]: Lessons/Lesson2.md
+[Leadership Moodle Discussion]: Lessons/Lesson3.md
 
 
 
