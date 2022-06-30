@@ -62,9 +62,9 @@ By the end of the course, you will be able to ...
 ## In Person Meetings
 **August 2-4, 2022**
 
-|    Date    | Morning     | Morning    |  Afternoon    |  Afternoon  |
+|    Day    | 8am-10am    | 10am-12pm    |  2pm-3:30pm    |  3:30pm-5pm  |
 |:-----------------------------:|:---------------------------------------:|:---------------------------------------:|:---------------------------------------:|:---------------------------------------:|
-|   **Day 1:**  | Arrival | Check In  |Block 1: Welcome Presentation  2pm-5pm |  Mixer  |
+|   **Day 1:**  | Arrival | Check In  |Block 1: Welcome Presentation/ Readings |  Conversation and Closing |
 |   **Day 2:** | Block 2: Equity Presentation | Block 3: Equity, Conversation and Contextualization | Block 4: Evidence Presentation   | Block 5: Evidence, Conversation and Contextualization |
 |   **Day 3:** | Block 6: Effectiveness Presentation   | Block 7: Effectiveness, Conversation and Contextualization | Block 8: Closing Thoughts | Check Out  |
 
