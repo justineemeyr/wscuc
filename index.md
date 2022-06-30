@@ -39,7 +39,6 @@ By the end of the course, you will be able to ...
 
 **Course Dates:** Tuesday, July 5 2022 – Friday, January 13, 2023 
 
-**In Person Meetings:** August 2-4 2022, October 26-29 2022, January 11-13 2023
 
 | Activity |          Date Assigned    |  Due Date        |                 Topics                  |
 |:-----:|:----------------------:|:----------------------:|:---------------------------------------:|
@@ -63,11 +62,11 @@ By the end of the course, you will be able to ...
 ## In Person Meetings
 **August 2-4, 2022**
 
-|  Date  | Morning     | Morning    |  Afternoon    |  Afternoon  |
-|:----------------------:|:---------------------------------------:|:---------------------------------------:|:---------------------------------------:|:---------------------------------------:|
-|**Day 1:**  | Arrival | Check In  |Block 1: Welcome Presentation  2pm-5pm |  Mixer  |
-|**Day 2:** | Block 2: Equity Presentation | Block 3: Equity, Conversation and Contextualization | Block 4: Evidence Presentation   | Block 5: Evidence, Conversation and Contextualization |
-|**Day 3:** | Block 6: Effectiveness Presentation   | Block 7: Effectiveness, Conversation and Contextualization | Block 8: Closing Thoughts | Check Out  |
+|    Date    | Morning     | Morning    |  Afternoon    |  Afternoon  |
+|:-----------------------------:|:---------------------------------------:|:---------------------------------------:|:---------------------------------------:|:---------------------------------------:|
+|   **Day 1:**  | Arrival | Check In  |Block 1: Welcome Presentation  2pm-5pm |  Mixer  |
+|   **Day 2:** | Block 2: Equity Presentation | Block 3: Equity, Conversation and Contextualization | Block 4: Evidence Presentation   | Block 5: Evidence, Conversation and Contextualization |
+|   **Day 3:** | Block 6: Effectiveness Presentation   | Block 7: Effectiveness, Conversation and Contextualization | Block 8: Closing Thoughts | Check Out  |
 
 **October 26-29,2022**
 
