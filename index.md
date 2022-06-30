@@ -44,9 +44,10 @@ By the end of the course, you will be able to ...
 | Activity |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
 |  1 |  Tue, July 5         | [Introduction in Moodle] |  
-|  2 |  Fri, July 8         | [Leadership Readings] |
-| 3 |  Mon, July 25        | [Leadership Moodle Discussion]
-| 3 |  Tue, Aug 2       | In person Meeting |
+| 2 |  Thu, July 7          | Survey in Moodle  |
+|  3 |  Mon, July 11         | [Leadership Readings in Moodle] |
+| 4 |  Mon, July 25        | [Leadership Moodle Discussion]
+| 5 |  Tue, Aug 2       | In person Meeting |
 
 
 ---
