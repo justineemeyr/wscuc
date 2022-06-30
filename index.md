@@ -77,7 +77,7 @@ By the end of the course, you will be able to ...
 
 |                        Assignment                         | Date Assigned |   Due Date   |            Submission Form           |
 |:---------------------------------------------------------:|:-------------:|:------------:|:------------------------------------:|
-| [Assignment 1](https://www.wscuc.org/educational-programs/accreditation-leadership-academy/curriculum/)                      |  Tuesday, August 2  |  Wed, October 26 | [Submit Assignment](https://wscuc.moodlecloud.com/))  |
+| [Assignment 1](https://www.wscuc.org/educational-programs/accreditation-leadership-academy/curriculum/)                      |  Tuesday, August 2  |  Wed, October 26 | [Submit Assignment](https://wscuc.moodlecloud.com/)  |
 | [Assignment 2](https://www.wscuc.org/educational-programs/accreditation-leadership-academy/curriculum/)                      |  Thursday, October 27   |  Friday, January 13  | [Submit Assignment](https://wscuc.moodlecloud.com/)  |
 
 
@@ -86,7 +86,7 @@ By the end of the course, you will be able to ...
 We will be using [Moodle](https://wscuc.moodlecloud.com/), which allows us to provide a collaborative space for the class. *All assigned work will be submitted through Moodle.*
 
 
-Your Moodle login is your institution email address, and your password you will set up when you sign into the course for the first time. For password problems email: jmeyr@wscuc.org 
+Your Moodle login is your institution email address, and your password you will set up when you sign into the course for the first time. For password questions email: [jmeyr@wscuc.org](jmeyr@wscuc.org) 
 
 
 ## Evaluation
