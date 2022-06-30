@@ -15,7 +15,8 @@ Building on more than a decade of success with its Assessment Leadership Academy
 
 ## Course Specifics
 
-**Course Delivery**: Hybrid | 7 months | July 5, 2022 - January 13, 2023
+|:-----:|:----------------------:|:---------------------------------------:|
+| **Course Delivery**: Hybrid | 7 months | July 5, 2022 - January 13, 2023 |
 
 
 ## Learning Outcomes
