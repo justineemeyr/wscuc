@@ -41,47 +41,30 @@ By the end of the course, you will be able to ...
 
 **In Person Meetings:** August 2-4 2022, October 26-29 2022, January 11-13 2023
 
-| Class |          Date          |                 Topics                  |
+| Activity |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
-|  1 |  Tue, July 5         | [Introduction] |  
-|  2 |  Thu, July 8         | [Leadership Readings] |
-| 18 |  Tue, Aug 2       | In person Meeting |
+|  1 |  Tue, July 5         | [Introduction in Moodle] |  
+|  2 |  Fri, July 8         | [Leadership Readings] |
+| 3 |  Mon, July 25        | [Leadership Moodle Discussion]
+| 3 |  Tue, Aug 2       | In person Meeting |
 
 
 ---
 
 
 
-[Introduction]: Lessons/Lesson1.md
+[Introduction in Moodle]: Lessons/Lesson1.md
 [Leadership Readings]: Lessons/Lesson2.md
-[Lesson 3]: Lessons/Lesson3.md
-[Lesson 4]: Lessons/Lesson4.md
-[Lesson 5]: Lessons/Lesson5.md
-[Lesson 6]: Lessons/Lesson6.md
-[Lesson 7]: Lessons/Lesson7.md
-[Lesson 8]: Lessons/Lesson8.md
-[Lesson 9]: Lessons/Lesson9.md
-[Lesson 10]: Lessons/Lesson10.md
-[Lesson 11]: Lessons/Lesson11.md
-[Lesson 12]: Lessons/Lesson12.md
-[Lesson 13]: Lessons/Lesson13.md
-[Lesson 14]: Lessons/Lesson14.md
-[Lesson 15]: Lessons/Lesson14.md
-[Lesson 16]: Lessons/Lesson14.md
-[Lesson 17]: Lessons/Lesson14.md
-[Lesson 18]: Lessons/Lesson14.md
-[Lesson 19]: Lessons/Lesson14.md
-[Lesson 20]: Lessons/Lesson14.md
+[Leadership Moodel Discussion]: Lessons/Lesson3.md
+
 
 
 ## In Person Meetings
 **August 2-4, 2022**
 
-- **Day 1 Arrival:**  | Block 1: Welcome Presentation  2pm-5pm |
-- **Day 2 Morning:** | Block 2: Equity Presentation | Block 3: Conversation and Contextualization |
-- **Day 2 Afternoon:** | Block 4: Evidence Presentation   | Block 5: Conversation and Contextualization |
-- **Day 3 Morning:** | Block 6: Effectiveness Presentation   | Block 7: Conversation and Contextualization |
-- **Day 3 Afternoon:** | Block 8: Closing Thoughts |
+- **Day 1:**  | Block 1: Welcome Presentation  2pm-5pm |
+- **Day 2:** | Block 2: Equity Presentation | Block 3: Equity, Conversation and Contextualization | Block 4: Evidence Presentation   | Block 5: Evidence, Conversation and Contextualization |
+- **Day 3:** | Block 6: Effectiveness Presentation   | Block 7: Effectiveness, Conversation and Contextualization | Block 8: Closing Thoughts |
 
 **October 26-29,2022**
 
@@ -93,8 +76,8 @@ By the end of the course, you will be able to ...
 
 |                        Assignment                         | Date Assigned |   Due Date   |            Submission Form           |
 |:---------------------------------------------------------:|:-------------:|:------------:|:------------------------------------:|
-| [Assignment 1](makeschool.com)                      |  Tuesday, August 2  |  Wed, October 26 | [Submit Assignment](makeschool.com)  |
-| [Assignment 2](makeschool.com)                      |  Thursday, October 27   |  Friday, January 13  | [Submit Assignment](makeschool.com)  |
+| [Assignment 1](https://www.wscuc.org/educational-programs/accreditation-leadership-academy/curriculum/)                      |  Tuesday, August 2  |  Wed, October 26 | [Submit Assignment](https://wscuc.moodlecloud.com/))  |
+| [Assignment 2](https://www.wscuc.org/educational-programs/accreditation-leadership-academy/curriculum/)                      |  Thursday, October 27   |  Friday, January 13  | [Submit Assignment](https://wscuc.moodlecloud.com/)  |
 
 
 ## Class Assignments
@@ -102,7 +85,7 @@ By the end of the course, you will be able to ...
 We will be using [Moodle](https://wscuc.moodlecloud.com/), which allows us to provide a collaborative space for the class. *All assigned work will be submitted through Moodle.*
 
 
-Your Moodle login is your institution email address, and your password can be changed at [https://gradescope.com/reset_password](https://gradescope.com/reset_password). 
+Your Moodle login is your institution email address, and your password you will set up when you sign into the course for the first time. For password problems email: jmeyr@wscuc.org 
 
 
 ## Evaluation
@@ -112,17 +95,17 @@ To pass this course you must meet the following requirements:
 
 - Complete all required assignments 
 - Attend all in person meetings
-- Contribute to the collective framework of Equity, Evidence and Effectivness
+- Contribute to the collective frameworks of Equity, Evidence and Effectivness
 
 ##  Information Resources
 
-Any additional resources you may need (online books, etc.) can be found here. You can also find additional resources through the library linked below:
+Any additional resources you may need can be found here. You can also find additional resources through the shared folder linked below:
 
-- [wascsenior.box](https://wascsenior.box.com/s/7chkbdsrvgqcqpgyccucsh8ipoc9mz7x)
+- [ALA Shared Resources](https://wascsenior.box.com/s/7chkbdsrvgqcqpgyccucsh8ipoc9mz7x)
 
 
 
 ## WSCUC Course Policies
 
-- [Program Learning Outcomes](https://make.sc/program-learning-outcomes) - What you will achieve after finishing WSCUC, all courses are designed around these outcomes.
+- [FAQs](https://www.wscuc.org/educational-programs/accreditation-leadership-academy/faq/)
 
