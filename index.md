@@ -59,7 +59,7 @@ By the end of the course, you will be able to ...
 | 2 |  Tue, July 5     |   Fri, July 8  | [Survey in Moodle](https://wscuc.moodlecloud.com/mod/feedback/view.php?id=30)  |
 |  3 |  Mon, July 11   |   Mon, July 25  | [Leadership Readings in Moodle](https://wscuc.moodlecloud.com/mod/url/view.php?id=31&forceview=1) |
 | 4 |  Mon, July 25     |  Mon, Aug 1  | Leadership Moodle Discussion
-| 5 |  Tue, Aug 2      |   N/A         | In Person Meeting  🙂  |
+| 5 |  Tue, Aug 2      |   N/A         | In Person Meeting    🙂  |
 
 
 ---
@@ -92,10 +92,10 @@ By the end of the course, you will be able to ...
 ## Class Assignments
 
 We will be using [Moodle](https://wscuc.moodlecloud.com/), which allows us to provide a collaborative space for the class. 
-*All assigned work will be submitted through Moodle; we recommend using [google chrome](https://www.google.com/chrome/downloads/) and adding [the moodle site](https://wscuc.moodlecloud.com/) to your favorites ⭐ in your webbrowser!*
+ *All assigned work will be submitted through Moodle; we recommend using [google chrome](https://www.google.com/chrome/downloads/) and adding [the moodle site](https://wscuc.moodlecloud.com/) to your ⭐ favorites in your webbrowser!*
 
 
-Your Moodle login is your institution email address, and your password will be set when you sign into the course for the first time. For password questions email 🙋 : [jmeyr@wscuc.org](jmeyr@wscuc.org) 
+Your Moodle login is your institution email address, and your password will be set when you sign into the course for the first time. 🙋 For password questions or tech support email: [jmeyr@wscuc.org](jmeyr@wscuc.org) 
 
 
 ## Evaluation
@@ -109,13 +109,13 @@ To pass this course you must meet the following requirements:
 
 ##  Information Resources
 
-Any additional resources you may need can be found here. You can also find additional resources through the shared folder linked below:
+Any additional resources you may need can be found through the shared folder linked below:
 
 - [ALA Shared Resources](https://wascsenior.box.com/s/7chkbdsrvgqcqpgyccucsh8ipoc9mz7x)
 
 
 
-## WSCUC Course Policies
+## WSCUC Policies and FAQs
 
 - [WSCUC Course Policies](https://wascsenior.box.com/s/6t827z04c6tux1ihjikysdqmii5mc9wu)
 - [FAQs](https://www.wscuc.org/educational-programs/accreditation-leadership-academy/faq/)
