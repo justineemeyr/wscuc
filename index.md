@@ -69,7 +69,7 @@ By the end of the course, you will be able to ...
 
 |    Day    | Morning   | Morning   |  Afternoon   |  Afternoon |
 |:-----------------------------:|:---------------------------------------:|:---------------------------------------:|:---------------------------------------:|:---------------------------------------:|
-|   **Day 1:**  | Arrival | Check In  |Block 1: Welcome Presentation/ Readings |  Conversation and Closing |
+|   **Day 1:**  | Arrival | Check In  |Block 1: Welcome Presentation/ Readings |  Block 1: Conversation and Closing |
 |   **Day 2:** | Block 2: Equity Presentation | Block 3: Equity, Conversation and Contextualization | Block 4: Evidence Presentation   | Block 5: Evidence, Conversation and Contextualization |
 |   **Day 3:** | Block 6: Effectiveness Presentation   | Block 7: Effectiveness, Conversation and Contextualization | Block 8: Closing Thoughts | Check Out  |
 
