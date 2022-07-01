@@ -10,7 +10,18 @@
 
 ## Course Description
 
-Building on more than a decade of success with its Assessment Leadership Academy, the WASC Senior College and University Commission (WSCUC) is pleased to announce a new professional development opportunity: the Accreditation Leadership Academy (ALA). This program puts WSCUC’s values of inquiry and innovation into practice by strengthening leaders’ ability to examine central issues of higher education and orienting them to action.
+The WASC Senior College & University Commission Accreditation Leadership Academy is (WSCUC) is a professional development program for higher education leaders. Through the application of both theoretical and practical frameworks for thought and action, the ALA considers the intersections and implications of:
+ 
+- The assurance of equity and the importance of inclusion and diversity in higher education culture and practice
+- The need for effective leadership, systems, and evidence to achieve quality
+ 
+And addresses these themes through a focus on **Equity, Evidence, and Effectiveness** in service of:
+ 
+- Enhancing individual professional practice
+- Addressing an institutional need
+- Developing skilled leadership for higher education
+ 
+The curriculum explores critical issues to produce actionable approaches to a pressing need identified by each participant and their institution, and participants learn through collaboration with Academy faculty and mentors and work with peers in small and large groups. Faculty and mentors are leaders in higher education practice drawn from the WSCUC community and from the broader community of international scholars and professionals, WSCUC Fellows, Assessment Leadership Academy alumni, and Community of Practice (CoP) participants.
 
 
 ## Course Specifics
@@ -42,9 +53,9 @@ By the end of the course, you will be able to ...
 
 | Activity |          Date Assigned    |  Due Date        |                 Topics                  |
 |:-----:|:----------------------:|:----------------------:|:---------------------------------------:|
-|  1 |  Tue, July 5    |   Fri, July 8  | [Introduction in Moodle] |  
-| 2 |  Thu, July 7     |   Fri, July 8  | Survey in Moodle  |
-|  3 |  Mon, July 11   |   Mon, July 25  | [Leadership Readings in Moodle] |
+|  1 |  Tue, July 5    |   Fri, July 8  | [Introduction in Moodle](https://wscuc.moodlecloud.com/mod/forum/view.php?id=28) |  
+| 2 |  Tue, July 5     |   Fri, July 8  | [Survey in Moodle](https://wscuc.moodlecloud.com/mod/feedback/view.php?id=30)  |
+|  3 |  Mon, July 11   |   Mon, July 25  | [Leadership Readings in Moodle](https://wscuc.moodlecloud.com/mod/url/view.php?id=31&forceview=1) |
 | 4 |  Mon, July 25     |  Mon, Aug 1  | [Leadership Moodle Discussion]
 | 5 |  Tue, Aug 2      |   N/A         | In person Meeting |
 
@@ -53,16 +64,10 @@ By the end of the course, you will be able to ...
 
 
 
-[Introduction in Moodle]: Lessons/Lesson1.md
-[Leadership Readings in Moodle]: Lessons/Lesson2.md
-[Leadership Moodle Discussion]: Lessons/Lesson3.md
-
-
-
 ## In Person Meetings
 **August 2-4, 2022**
 
-|    Day    | 8am-10am    | 10am-12pm    |  2pm-3:30pm    |  3:30pm-5pm  |
+|    Day    | Morning   | Morning   |  Afternoon   |  Afternoon |
 |:-----------------------------:|:---------------------------------------:|:---------------------------------------:|:---------------------------------------:|:---------------------------------------:|
 |   **Day 1:**  | Arrival | Check In  |Block 1: Welcome Presentation/ Readings |  Conversation and Closing |
 |   **Day 2:** | Block 2: Equity Presentation | Block 3: Equity, Conversation and Contextualization | Block 4: Evidence Presentation   | Block 5: Evidence, Conversation and Contextualization |
@@ -109,5 +114,6 @@ Any additional resources you may need can be found here. You can also find addit
 
 ## WSCUC Course Policies
 
+- [WSCUC Course Policies](https://wascsenior.box.com/s/6t827z04c6tux1ihjikysdqmii5mc9wu)
 - [FAQs](https://www.wscuc.org/educational-programs/accreditation-leadership-academy/faq/)
 
