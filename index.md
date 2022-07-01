@@ -10,18 +10,18 @@
 
 ## Course Description
 
-The WASC Senior College & University Commission Accreditation Leadership Academy is (WSCUC) is a professional development program for higher education leaders. Through the application of both theoretical and practical frameworks for thought and action, the ALA considers the intersections and implications of:
+The WASC Senior College & University Commission Accreditation Leadership Academy (WSCUC) is a professional development program for higher education leaders. Through the application of both theoretical and practical frameworks for thought and action, the ALA considers the intersections and implications of:
  
 - The assurance of equity and the importance of inclusion and diversity in higher education culture and practice
 - The need for effective leadership, systems, and evidence to achieve quality
  
-And addresses these themes through a focus on **Equity, Evidence, and Effectiveness** in service of:
+It addresses these themes through a focus on **Equity, Evidence, and Effectiveness** in service of:
  
 - Enhancing individual professional practice
 - Addressing an institutional need
-- Developing skilled leadership for higher education
+- Developing skilled leadership in higher education
  
-The curriculum explores critical issues to produce actionable approaches to a pressing need identified by each participant and their institution, and participants learn through collaboration with Academy faculty and mentors and work with peers in small and large groups. Faculty and mentors are leaders in higher education practice drawn from the WSCUC community and from the broader community of international scholars and professionals, WSCUC Fellows, Assessment Leadership Academy alumni, and Community of Practice (CoP) participants.
+The curriculum explores critical issues to produce actionable approaches to a pressing need identified by each participant and their institution. Participants learn through collaboration with Academy faculty and mentors, while simultaneously working with peers in various group settings. Faculty and mentors are leaders in higher education practice drawn from the WSCUC community and from the broader community of international scholars and professionals, WSCUC Fellows, Assessment Leadership Academy alumni, and Community of Practice (CoP) participants.
 
 
 ## Course Specifics
@@ -49,6 +49,7 @@ By the end of the course, you will be able to ...
 
 
 **Course Dates:** Tuesday, July 5 2022 – Friday, January 13, 2023 
+*Due to the inductive model of the ALA, activities and assignments will be added to the syllabus as the course proceeds*
 
 
 | Activity |          Date Assigned    |  Due Date        |                 Topics                  |
@@ -56,8 +57,8 @@ By the end of the course, you will be able to ...
 |  1 |  Tue, July 5    |   Fri, July 8  | [Introduction in Moodle](https://wscuc.moodlecloud.com/mod/forum/view.php?id=28) |  
 | 2 |  Tue, July 5     |   Fri, July 8  | [Survey in Moodle](https://wscuc.moodlecloud.com/mod/feedback/view.php?id=30)  |
 |  3 |  Mon, July 11   |   Mon, July 25  | [Leadership Readings in Moodle](https://wscuc.moodlecloud.com/mod/url/view.php?id=31&forceview=1) |
-| 4 |  Mon, July 25     |  Mon, Aug 1  | [Leadership Moodle Discussion]
-| 5 |  Tue, Aug 2      |   N/A         | In person Meeting :smiley: |
+| 4 |  Mon, July 25     |  Mon, Aug 1  | Leadership Moodle Discussion
+| 5 |  Tue, Aug 2      |   N/A         | In Person Meeting :smiley: |
 
 
 ---
