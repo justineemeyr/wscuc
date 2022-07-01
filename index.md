@@ -26,7 +26,7 @@ The curriculum explores critical issues to produce actionable approaches to a pr
 
 ## Course Specifics
 
-| **Course Delivery**: In Person / [Moodle](https://wscuc.moodlecloud.com/) | 7 months | July 5, 2022 - January 13, 2023 |
+| **Course Delivery**:   In Person / [Moodle](https://wscuc.moodlecloud.com/) | 7 months | July 5, 2022 - January 13, 2023 |
 
 
 ## Learning Outcomes
