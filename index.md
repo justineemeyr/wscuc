@@ -26,7 +26,7 @@ The curriculum explores critical issues to produce actionable approaches to a pr
 
 ## Course Specifics
 
-| **Course Delivery**: Hybrid: In Person / [Moodle](https://wscuc.moodlecloud.com/) | 7 months | July 5, 2022 - January 13, 2023 |
+| **Course Delivery**: In Person / [Moodle](https://wscuc.moodlecloud.com/) | 7 months | July 5, 2022 - January 13, 2023 |
 
 
 ## Learning Outcomes
@@ -50,7 +50,7 @@ By the end of the course, you will be able to ...
 
 **Course Dates:** Tuesday, July 5 2022 – Friday, January 13, 2023 
 
-*Due to the inductive model of the ALA, activities and assignments will be added to the syllabus as the course proceeds*
+- *Due to the inductive model of the ALA, assignments will be added to the syllabus as the course proceeds*
 
 
 | Activity |          Date Assigned    |  Due Date        |                 Topics                  |
@@ -59,7 +59,7 @@ By the end of the course, you will be able to ...
 | 2 |  Tue, July 5     |   Fri, July 8  | [Survey in Moodle](https://wscuc.moodlecloud.com/mod/feedback/view.php?id=30)  |
 |  3 |  Mon, July 11   |   Mon, July 25  | [Leadership Readings in Moodle](https://wscuc.moodlecloud.com/mod/url/view.php?id=31&forceview=1) |
 | 4 |  Mon, July 25     |  Mon, Aug 1  | Leadership Moodle Discussion
-| 5 |  Tue, Aug 2      |   N/A         | In Person Meeting :slightly_smiling_face: |
+| 5 |  Tue, Aug 2      |   N/A         | In Person Meeting  🙂  |
 
 
 ---
@@ -92,10 +92,10 @@ By the end of the course, you will be able to ...
 ## Class Assignments
 
 We will be using [Moodle](https://wscuc.moodlecloud.com/), which allows us to provide a collaborative space for the class. 
-*All assigned work will be submitted through Moodle; we recommend using [google chrome](https://www.google.com/chrome/downloads/) and adding [the moodle site](https://wscuc.moodlecloud.com/) to your favorites :star: in your webbrowser!*
+*All assigned work will be submitted through Moodle; we recommend using [google chrome](https://www.google.com/chrome/downloads/) and adding [the moodle site](https://wscuc.moodlecloud.com/) to your favorites ⭐ in your webbrowser!*
 
 
-Your Moodle login is your institution email address, and your password will be set when you sign into the course for the first time. For password questions email :raising_hand: : [jmeyr@wscuc.org](jmeyr@wscuc.org) 
+Your Moodle login is your institution email address, and your password will be set when you sign into the course for the first time. For password questions email 🙋 : [jmeyr@wscuc.org](jmeyr@wscuc.org) 
 
 
 ## Evaluation
