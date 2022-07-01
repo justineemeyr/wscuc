@@ -26,7 +26,7 @@ The curriculum explores critical issues to produce actionable approaches to a pr
 
 ## Course Specifics
 
-| **Course Delivery**: Hybrid | 7 months | July 5, 2022 - January 13, 2023 |
+| **Course Delivery**: Hybrid / [Moodle](https://wscuc.moodlecloud.com/) | 7 months | July 5, 2022 - January 13, 2023 |
 
 
 ## Learning Outcomes
@@ -89,10 +89,11 @@ By the end of the course, you will be able to ...
 
 ## Class Assignments
 
-We will be using [Moodle](https://wscuc.moodlecloud.com/), which allows us to provide a collaborative space for the class. *All assigned work will be submitted through Moodle.*
+We will be using [Moodle](https://wscuc.moodlecloud.com/), which allows us to provide a collaborative space for the class. 
+*All assigned work will be submitted through Moodle, please add this site to your favorites in your webbrowser! We recommend using google chrome. *
 
 
-Your Moodle login is your institution email address, and your password you will set up when you sign into the course for the first time. For password questions email: [jmeyr@wscuc.org](jmeyr@wscuc.org) 
+Your Moodle login is your institution email address, and your password will be set when you sign into the course for the first time. For password questions email: [jmeyr@wscuc.org](jmeyr@wscuc.org) 
 
 
 ## Evaluation
