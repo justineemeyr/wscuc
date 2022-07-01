@@ -85,8 +85,8 @@ By the end of the course, you will be able to ...
 
 |                        Assignment                         | Date Assigned |   Due Date   |            Submission Form           |
 |:---------------------------------------------------------:|:-------------:|:------------:|:------------------------------------:|
-| [Assignment 1](https://www.wscuc.org/educational-programs/accreditation-leadership-academy/curriculum/)                      |  Tuesday, August 2  |  Wed, October 26 | [Submit Assignment](https://wscuc.moodlecloud.com/)  |
-| [Assignment 2](https://www.wscuc.org/educational-programs/accreditation-leadership-academy/curriculum/)                      |  Thursday, October 27   |  Friday, January 13  | [Submit Assignment](https://wscuc.moodlecloud.com/)  |
+| [Assignment 1](https://wascsenior.box.com/s/qmrxrsp1yaysccqyl12ga5ip35uzoqyx)                      |  Tuesday, August 2  |  Wed, October 26 | [Submit Assignment](https://wscuc.moodlecloud.com/)  |
+| [Assignment 2](https://wascsenior.box.com/s/yc9ez49ppixjccatz116vvwft3wqc44x)                      |  Thursday, October 27   |  Friday, January 13  | [Submit Assignment](https://wscuc.moodlecloud.com/)  |
 
 
 ## Class Assignments
@@ -95,7 +95,8 @@ We will be using [Moodle](https://wscuc.moodlecloud.com/), which allows us to pr
  *All assigned work will be submitted through Moodle; we recommend using [google chrome](https://www.google.com/chrome/downloads/) and adding [the moodle site](https://wscuc.moodlecloud.com/) to your ⭐ favorites in your webbrowser!*
 
 
-Your Moodle login is your institution email address, and your password will be set when you sign into the course for the first time. 🙋 For password questions or tech support email: [jmeyr@wscuc.org](jmeyr@wscuc.org) 
+Your Moodle login is your institution email address, and your password will be set when you sign into the course for the first time. 
+- 🙋 For password questions or tech support email: [jmeyr@wscuc.org](jmeyr@wscuc.org) 
 
 
 ## Evaluation
