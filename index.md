@@ -68,12 +68,13 @@ By the end of the course, you will be able to ...
 
 ## In Person Meetings
 **August 2-4, 2022**
+**[_(Full Schedule available here)_](https://wascsenior.box.com/s/hw09xyafb8143i3kq6y1s3onfn5hb7cj)**
 
-|    Day    | Morning   | Morning   |  Afternoon   |  Afternoon |
+|        | Morning   | Morning   |  Afternoon   |  Afternoon |
 |:-----------------------------:|:---------------------------------------:|:---------------------------------------:|:---------------------------------------:|:---------------------------------------:|
-|   **Day 1:**  | Arrival | Check In  |Block 1: Welcome Presentation/ Readings |  Block 1: Conversation and Closing |
-|   **Day 2:** | Block 2: Equity Presentation | Block 3: Equity, Conversation and Contextualization | Block 4: Evidence Presentation   | Block 5: Evidence, Conversation and Contextualization |
-|   **Day 3:** | Block 6: Effectiveness Presentation   | Block 7: Effectiveness, Conversation and Contextualization | Block 8: Closing Thoughts | Check Out  |
+|   **Day 1:**  | Arrival | Check In  |Block 1: Welcome Presentation by [David Chase](https://www.wscuc.org/team/david-chase/) |  Block 1: Orientation by [David Chase](https://www.wscuc.org/team/david-chase/) and [Justine Meyr](https://www.linkedin.com/in/justine-meyr-phd-0a2150133/) |
+|   **Day 2:** | Block 2: Equity Presentation by [Walter Conwell](https://www.linkedin.com/in/walterdconwell/) | Block 3: Equity, Conversation and Contextualization | Block 4: Evidence Presentation by [Stephanie Huie](https://www.wscuc.org/team/dr-stephanie-huie/) and [Jamienne Studley](https://www.wscuc.org/team/jamienne-s-studley/)  | Block 5: Evidence, Conversation and Contextualization |
+|   **Day 3:** | Block 6: Effectiveness Presentation by [Keston Fulcher](https://www.jmu.edu/assessment/people/all-people/director/fulcher-keston.shtml)   | Block 7: Effectiveness, Conversation and Contextualization | Block 8: Closing Thoughts | Check Out  |
 
 **October 26-29,2022**
 
