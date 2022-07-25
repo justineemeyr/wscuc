@@ -58,7 +58,7 @@ By the end of the course, you will be able to ...
 |  1 |  Tue, July 5    |   Fri, July 8  | [Introduction in Moodle](https://wscuc.moodlecloud.com/mod/forum/view.php?id=28) |  
 | 2 |  Tue, July 5     |   Fri, July 8  | [Survey in Moodle](https://wscuc.moodlecloud.com/mod/feedback/view.php?id=30)  |
 |  3 |  Mon, July 11   |   Mon, July 25  | [Leadership Readings in Moodle](https://wscuc.moodlecloud.com/mod/url/view.php?id=31&forceview=1) |
-| 4 |  Mon, July 25     |  Mon, Aug 1  | Leadership Moodle Discussion
+| 4 |  Mon, July 25     |  Mon, Aug 1  | [Leadership Moodle Discussion](https://wscuc.moodlecloud.com/mod/forum/view.php?id=33&forceview=1)
 | 5 |  Tue, Aug 2      |   N/A         | In Person Meeting    🙂  |
 
 
